@@ -22,3 +22,5 @@ const event = {
 };
 
 event.printGuestList();
+
+//files 4 video 9 refractoring to use arrow functions
